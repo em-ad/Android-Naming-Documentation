@@ -55,4 +55,10 @@
 ### a.	Context Based Components (context, activity, lifecycle, …)
 ### b.	Normal Classes
 ### c.	Interfaces and Callbacks
-## 19.	
+## 19.	Constants Naming should start with section: PREF_, EXTRA_, KEY_, ...
+## 20. XML:
+### a. no empty tags! if elements doesnt have inner elements, use closing xml
+### b. id: camelCase_other_other_other. example: textView_profile_first_name
+
+
+##### to be continued...
